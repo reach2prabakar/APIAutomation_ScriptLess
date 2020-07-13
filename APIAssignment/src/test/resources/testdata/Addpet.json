@@ -1,0 +1,32 @@
+{
+  "clientId": 0,    
+  "clientRef": "string",
+  "ownershipTypeCode": "ownership!P",
+  "ownershipTypeName": "string",
+  "legalName": "string",
+  "tradingName": "string",
+  "name": "string",
+  "postalAddress": "string",
+  "postalAddressUpdateDate": "2020-01-28T01:07:20.675Z",
+  "postalAddressParts": [
+    "string"
+  ],
+  "physicalAddress": "string",
+  "physicalAddressUpdateDate": "2020-01-28T01:07:20.675Z",
+  "physicalAddressParts": [
+    "string"
+  ],
+  "location": "string",
+  "isPostalAddressSameAsPhysical": true,
+  "phone": "string",
+  "phoneUpdateDate": "2020-01-28T01:07:20.675Z",
+  "email": "re@gmail.com",
+  "emailUpdateDate": "2020-01-28T01:07:20.675Z",
+  "nzbnNumber": "2132",
+  "statusCode": "string",
+  "status": "string",
+  "legalStartDate": "2020-01-28T01:07:20.675Z",
+  "fromDate": "2020-01-28T01:07:20.675Z",
+  "toDate": "2020-09-28T01:07:20.675Z",
+  "createdDateTime": "2020-01-28T01:07:20.675Z"
+}
